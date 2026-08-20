@@ -50,7 +50,7 @@ Linux | Git | GitHub | VS Code | Jupyter | Docker | PostgreSQL
 
 ---
 
-## 📊 Areas of Experience
+## Areas of Experience
 
 * Processing and analyzing large-scale biomedical datasets
 * RNA-seq and genomic sequence analysis
