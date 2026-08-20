@@ -82,6 +82,7 @@ Linux | Git | GitHub | VS Code | Jupyter | Docker | PostgreSQL
 ## Connect With Me
 
 **LinkedIn:** [Gloria Riechi](https://www.linkedin.com/in/gloria-riechi-786057221/)
+
 **Email:** [gloriariechi@gmail.com](mailto:gloriariechi@gmail.com)
 
 ---
