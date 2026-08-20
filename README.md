@@ -1,8 +1,11 @@
 # Hi, I'm Gloria 👋
 
 🎓 **BSc Mathematics and Computer Science**
+
 🎓 **PhD Student in Computational Data Science & Engineering**
+
 🧬 **Bioinformatics | Computational Biology | Biomedical AI | Molecular Modeling**
+
 📍 **North Carolina A&T State University**
 
 ---
