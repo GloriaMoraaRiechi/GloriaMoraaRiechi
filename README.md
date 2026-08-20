@@ -50,8 +50,8 @@ I am a Computational Data Science researcher with a focus on applying advanced m
 ---
 
 ## 🤝 Connect With Me
-- LinkedIn: **  
-- Email: *gmriechi@aggies.ncat.edu*  
+- LinkedIn: *https://www.linkedin.com/in/gloria-riechi-786057221/*  
+- Email: *gloriariechi@gmail.com*  
 
 ---
 
