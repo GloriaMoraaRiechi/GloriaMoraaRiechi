@@ -1,58 +1,86 @@
-# Hi, I'm Gloria
+# Hi, I'm Gloria 👋
 
-🎓 PhD Student in Computational Data Science & Engineering  
-🔬 Bioinformatics | AI for Healthcare | Molecular Modeling  
-📍 North Carolina A&T State University  
+🎓 **BSc Mathematics and Computer Science**
+🎓 **PhD Student in Computational Data Science & Engineering**
+🧬 **Bioinformatics | Computational Biology | Biomedical AI | Molecular Modeling**
+📍 **North Carolina A&T State University**
 
 ---
 
 ## About Me
-I am a Computational Data Science researcher with a focus on applying advanced modeling and AI techniques to biomedical problems. My work integrates **multi-omics data, graph-based learning, and molecular modeling** to better understand disease mechanisms and improve predictive systems in healthcare.
+
+I am a PhD student in **Computational Data Science and Engineering** with research interests at the intersection of **bioinformatics, computational biology, artificial intelligence, and molecular modeling**.
+
+My work focuses on using computational and data-driven approaches to analyze complex biological and biomedical data. I am particularly interested in **genomics and transcriptomics, multimodal data integration, graph-based learning, statistical modeling, molecular simulation, and reproducible scientific computing**.
 
 ---
 
-## Current Research
-- Multi-omics data integration 
-- Graph Neural Networks (GNNs) for biological systems
-- Bayesian modeling & uncertainty quantification
-- Molecular docking & simulation
-- Computational pipelines for reproducible biomedical research
+## Research Areas
+
+* Bioinformatics & Computational Biology
+* Genomics & Transcriptomics
+* RNA-seq Data Analysis
+* Multi-omics Data Integration
+* Graph Neural Networks
+* Biomedical Machine Learning
+* Explainable & Interpretable AI
+* Bayesian Modeling & Uncertainty Quantification
+* Molecular Docking & Molecular Dynamics
+* Computational Drug Discovery
+* High-Performance Computing for Biomedical Research
 
 ---
 
-## 🛠️ Tech Stack
-**Languages:** Python, R, C++, MATLAB  
-**Frameworks & Tools:** PyTorch, PySpark, Scikit-learn, PyMC, Biopython  
-**Bioinformatics:** RNA-seq, TCGA data, molecular docking  
-**Other:** Git, Linux, HPC, VS Code  
+## Tech Stack
+
+**Programming:**
+Python | R | C++ | MATLAB | Bash | SQL
+
+**Machine Learning & Statistics:**
+PyTorch | PyTorch Geometric | Scikit-learn | PyMC | SHAP
+
+**Bioinformatics & Molecular Modeling:**
+Biopython | pysam | Bowtie2 | HISAT2 | RNAfold | GROMACS
+
+**Computing & Development:**
+Linux | Git | GitHub | VS Code | Jupyter | Docker | PostgreSQL
 
 ---
 
-## Featured Projects
-- **Multimodal GNN for Disease Prediction**  
-  Integrating imaging + clinical + omics data for classification tasks  
+## 📊 Areas of Experience
 
--  **Bayesian CKD Risk Modeling**  
-  Probabilistic modeling with uncertainty quantification and ROC/AUC evaluation  
-
-- 🔗
-- 🔗
-- 🔗
-
----
-
-## 📈 Research Interests
-- Precision Medicine  
-- Digital Twins in Healthcare  
-- AI for Biomedical Data  
-- Explainable & Interpretable Models  
+* Processing and analyzing large-scale biomedical datasets
+* RNA-seq and genomic sequence analysis
+* Building reproducible bioinformatics pipelines
+* Multimodal biomedical data integration
+* Graph-based representation and learning
+* Statistical and probabilistic modeling
+* Model evaluation and interpretability
+* Molecular docking and protein–ligand interaction analysis
+* Molecular dynamics simulation
+* Parallel and high-performance scientific computing
 
 ---
 
-## 🤝 Connect With Me
-- LinkedIn: *https://www.linkedin.com/in/gloria-riechi-786057221/*  
-- Email: *gloriariechi@gmail.com*  
+## Research Interests
+
+* Precision Medicine
+* Computational Genomics
+* Transcriptomics
+* AI for Biomedical Data
+* Multimodal Learning
+* Graph-Based Biological Modeling
+* Computational Molecular Science
+* Explainable AI
+* Reproducible Biomedical Research
 
 ---
 
-*Always building, learning, and contributing to impactful research*
+## Connect With Me
+
+**LinkedIn:** [Gloria Riechi](https://www.linkedin.com/in/gloria-riechi-786057221/)
+**Email:** [gloriariechi@gmail.com](mailto:gloriariechi@gmail.com)
+
+---
+
+*Using computational methods to transform complex biological data into meaningful scientific insights.*
